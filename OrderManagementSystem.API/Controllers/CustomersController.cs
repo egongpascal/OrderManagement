@@ -9,9 +9,12 @@ using OrderManagementSystem.Application.Queries;
 
 namespace OrderManagementSystem.API.Controllers
 {
-
+    /// <summary>
+    /// Controller for managing customers in the system
+    /// </summary>
     [ApiController]
     [Route("api/[controller]")]
+    [Produces("application/json")]
     public class CustomersController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -21,6 +24,13 @@ namespace OrderManagementSystem.API.Controllers
             _mediator = mediator;
         }
 
+        /// <summary>
+        /// Retrieves a specific customer by their ID
+        /// </summary>
+        /// <param name="id">The unique identifier of the customer</param>
+        /// <returns>The customer details if found</returns>
+        /// <response code="200">Returns the customer</response>
+        /// <response code="404">If the customer is not found</response>
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(CustomerDto), 200)]
         [ProducesResponseType(404)]
@@ -31,6 +41,11 @@ namespace OrderManagementSystem.API.Controllers
             return result != null ? Ok(result) : NotFound();
         }
 
+        /// <summary>
+        /// Retrieves all customers in the system
+        /// </summary>
+        /// <returns>A list of all customers</returns>
+        /// <response code="200">Returns the list of customers</response>
         [HttpGet]
         [ProducesResponseType(typeof(List<CustomerDto>), 200)]
         public async Task<ActionResult<List<CustomerDto>>> GetAllCustomers()
@@ -40,6 +55,13 @@ namespace OrderManagementSystem.API.Controllers
             return Ok(result);
         }
 
+        /// <summary>
+        /// Creates a new customer
+        /// </summary>
+        /// <param name="command">The customer creation command containing customer details</param>
+        /// <returns>The newly created customer</returns>
+        /// <response code="201">Returns the newly created customer</response>
+        /// <response code="400">If the customer data is invalid</response>
         [HttpPost]
         [ProducesResponseType(typeof(CustomerDto), 201)]
         [ProducesResponseType(400)]
@@ -49,6 +71,15 @@ namespace OrderManagementSystem.API.Controllers
             return CreatedAtAction(nameof(GetCustomer), new { id = result.Id }, result);
         }
 
+        /// <summary>
+        /// Updates an existing customer's information
+        /// </summary>
+        /// <param name="id">The unique identifier of the customer</param>
+        /// <param name="command">The customer update command containing new details</param>
+        /// <returns>No content if successful</returns>
+        /// <response code="200">If the customer was updated successfully</response>
+        /// <response code="400">If the customer data is invalid</response>
+        /// <response code="404">If the customer is not found</response>
         [HttpPut("{id}")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
@@ -62,6 +93,13 @@ namespace OrderManagementSystem.API.Controllers
             return result ? Ok() : NotFound();
         }
 
+        /// <summary>
+        /// Retrieves analytics data for a specific customer
+        /// </summary>
+        /// <param name="id">The unique identifier of the customer</param>
+        /// <returns>The customer's analytics data</returns>
+        /// <response code="200">Returns the customer analytics</response>
+        /// <response code="404">If the customer is not found</response>
         [HttpGet("{id}/analytics")]
         [ProducesResponseType(typeof(CustomerAnalyticsDto), 200)]
         [ProducesResponseType(404)]

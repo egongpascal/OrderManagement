@@ -332,3 +332,15 @@ C:\Users\USER\Documents\Projects\Assesment\OrderManagementSystem.API\obj\Debug\n
 C:\Users\USER\Documents\Projects\Assesment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.pdb
 C:\Users\USER\Documents\Projects\Assesment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.genruntimeconfig.cache
 C:\Users\USER\Documents\Projects\Assesment\OrderManagementSystem.API\obj\Debug\net8.0\ref\OrderManagementSystem.API.dll
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.AssemblyInfo.cs
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.sourcelink.json
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.dll
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\refint\OrderManagementSystem.API.dll
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.xml
+C:\Users\USER\Documents\Projects\OrderManagementAssessment\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.pdb
