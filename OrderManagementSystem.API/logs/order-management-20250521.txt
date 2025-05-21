@@ -1,0 +1,241 @@
+2025-05-21 11:08:51.839 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 11:08:51.897 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 11:08:51.899 -04:00 [INF] Hosting environment: Development
+2025-05-21 11:08:51.902 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 11:08:57.216 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/ - null null
+2025-05-21 11:08:57.498 -04:00 [WRN] Failed to determine the https port for redirect.
+2025-05-21 11:08:57.648 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/ - 404 0 null 434.2818ms
+2025-05-21 11:08:57.676 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5109/, Response status code: 404
+2025-05-21 11:09:13.905 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger - null null
+2025-05-21 11:09:13.918 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger - 301 0 null 12.5568ms
+2025-05-21 11:09:13.930 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 11:09:14.026 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 95.9597ms
+2025-05-21 11:09:14.106 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/swagger-ui-bundle.js - null null
+2025-05-21 11:09:14.106 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/swagger-ui.css - null null
+2025-05-21 11:09:14.106 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/swagger-ui-standalone-preset.js - null null
+2025-05-21 11:09:14.142 -04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-05-21 11:09:14.142 -04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-05-21 11:09:14.147 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/swagger-ui.css - 200 144929 text/css 41.5238ms
+2025-05-21 11:09:14.148 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/swagger-ui-standalone-preset.js - 200 312163 text/javascript 41.9348ms
+2025-05-21 11:09:14.150 -04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-05-21 11:09:14.161 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/swagger-ui-bundle.js - 200 1061536 text/javascript 55.3715ms
+2025-05-21 11:09:16.533 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 11:09:16.534 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/favicon-32x32.png - null null
+2025-05-21 11:09:16.548 -04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-05-21 11:09:16.551 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/favicon-32x32.png - 200 628 image/png 16.4699ms
+2025-05-21 11:09:16.784 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 250.4785ms
+2025-05-21 11:11:31.980 -04:00 [INF] Application is shutting down...
+2025-05-21 11:11:40.315 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 11:11:40.365 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 11:11:40.369 -04:00 [INF] Hosting environment: Development
+2025-05-21 11:11:40.372 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 11:12:51.362 -04:00 [INF] Application is shutting down...
+2025-05-21 11:13:06.534 -04:00 [INF] Now listening on: https://localhost:7299
+2025-05-21 11:13:06.624 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 11:13:06.750 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 11:13:06.753 -04:00 [INF] Hosting environment: Development
+2025-05-21 11:13:06.755 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 11:13:17.620 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 11:13:17.978 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 361.0316ms
+2025-05-21 11:13:18.023 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_vs/browserLink - null null
+2025-05-21 11:13:18.024 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-21 11:13:18.043 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - 200 16535 application/javascript; charset=utf-8 19.0148ms
+2025-05-21 11:13:18.098 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.943ms
+2025-05-21 11:13:18.861 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 11:13:18.910 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 49.294ms
+2025-05-21 11:13:29.484 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/api/Customers - null null
+2025-05-21 11:13:29.503 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/api/Customers - 307 0 null 18.7816ms
+2025-05-21 11:13:29.622 -04:00 [INF] Request starting HTTP/2 GET https://localhost:7299/api/Customers - null null
+2025-05-21 11:13:29.641 -04:00 [INF] Executing endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API)'
+2025-05-21 11:13:29.675 -04:00 [INF] Route matched with {action = "GetAllCustomers", controller = "Customers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[OrderManagementSystem.Application.DTOs.CustomerDto]]] GetAllCustomers() on controller OrderManagementSystem.API.Controllers.CustomersController (OrderManagementSystem.API).
+2025-05-21 11:13:30.929 -04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[OrderManagementSystem.Application.DTOs.CustomerDto, OrderManagementSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-21 11:13:30.958 -04:00 [INF] Executed action OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API) in 1269.8545ms
+2025-05-21 11:13:30.964 -04:00 [INF] Executed endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API)'
+2025-05-21 11:13:30.973 -04:00 [INF] Request finished HTTP/2 GET https://localhost:7299/api/Customers - 200 null application/json; charset=utf-8 1350.9585ms
+2025-05-21 11:13:37.905 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/api/Customers - null null
+2025-05-21 11:13:37.985 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/api/Customers - 307 0 null 79.5573ms
+2025-05-21 11:13:37.995 -04:00 [INF] Request starting HTTP/2 GET https://localhost:7299/api/Customers - null null
+2025-05-21 11:13:38.054 -04:00 [INF] Executing endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API)'
+2025-05-21 11:13:38.058 -04:00 [INF] Route matched with {action = "GetAllCustomers", controller = "Customers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[OrderManagementSystem.Application.DTOs.CustomerDto]]] GetAllCustomers() on controller OrderManagementSystem.API.Controllers.CustomersController (OrderManagementSystem.API).
+2025-05-21 11:13:38.093 -04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[OrderManagementSystem.Application.DTOs.CustomerDto, OrderManagementSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-21 11:13:38.097 -04:00 [INF] Executed action OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API) in 30.1228ms
+2025-05-21 11:13:38.102 -04:00 [INF] Executed endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API)'
+2025-05-21 11:13:38.104 -04:00 [INF] Request finished HTTP/2 GET https://localhost:7299/api/Customers - 200 null application/json; charset=utf-8 110.0426ms
+2025-05-21 11:29:54.269 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 11:29:54.325 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 11:29:54.328 -04:00 [INF] Hosting environment: Development
+2025-05-21 11:29:54.330 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 11:30:01.883 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/ - null null
+2025-05-21 11:30:02.074 -04:00 [WRN] Failed to determine the https port for redirect.
+2025-05-21 11:30:02.087 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/ - 404 0 null 210.2257ms
+2025-05-21 11:30:02.105 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5109/, Response status code: 404
+2025-05-21 11:30:07.498 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 11:30:07.593 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 94.1965ms
+2025-05-21 11:30:08.445 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 11:30:08.690 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 245.3924ms
+2025-05-21 11:30:17.623 -04:00 [INF] Application is shutting down...
+2025-05-21 11:30:31.852 -04:00 [INF] Now listening on: https://localhost:7299
+2025-05-21 11:30:31.905 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 11:30:31.969 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 11:30:31.971 -04:00 [INF] Hosting environment: Development
+2025-05-21 11:30:31.973 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 11:31:39.040 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 11:31:39.358 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 320.7502ms
+2025-05-21 11:31:39.421 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_vs/browserLink - null null
+2025-05-21 11:31:39.425 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-21 11:31:39.450 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - 200 16535 application/javascript; charset=utf-8 29.4635ms
+2025-05-21 11:31:39.490 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_vs/browserLink - 200 null text/javascript; charset=UTF-8 69.3314ms
+2025-05-21 11:31:39.782 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 11:31:39.832 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.5241ms
+2025-05-21 11:39:31.534 -04:00 [INF] Now listening on: https://localhost:7299
+2025-05-21 11:39:31.587 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 11:39:31.653 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 11:39:31.656 -04:00 [INF] Hosting environment: Development
+2025-05-21 11:39:31.658 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 11:39:43.597 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 11:39:43.986 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 393.4992ms
+2025-05-21 11:39:44.050 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-21 11:39:44.050 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_vs/browserLink - null null
+2025-05-21 11:39:44.062 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - 200 16535 application/javascript; charset=utf-8 11.5589ms
+2025-05-21 11:39:44.154 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_vs/browserLink - 200 null text/javascript; charset=UTF-8 104.0356ms
+2025-05-21 11:39:45.069 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 11:39:45.120 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.9778ms
+2025-05-21 12:11:38.837 -04:00 [INF] Now listening on: https://localhost:7299
+2025-05-21 12:11:38.886 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 12:11:38.951 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 12:11:38.954 -04:00 [INF] Hosting environment: Development
+2025-05-21 12:11:38.957 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 12:12:06.283 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 12:12:06.593 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 316.3249ms
+2025-05-21 12:12:07.122 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-21 12:12:07.136 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - 200 16535 application/javascript; charset=utf-8 14.3807ms
+2025-05-21 12:12:07.167 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_vs/browserLink - null null
+2025-05-21 12:12:07.320 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_vs/browserLink - 200 null text/javascript; charset=UTF-8 152.6846ms
+2025-05-21 12:12:09.223 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 12:12:09.253 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 29.1421ms
+2025-05-21 12:21:34.073 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Customers - application/json 82
+2025-05-21 12:21:34.090 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Customers - 307 0 null 17.2661ms
+2025-05-21 12:21:34.221 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Customers - null null
+2025-05-21 12:21:34.235 -04:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:21:34.240 -04:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:21:34.245 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Customers - 405 0 null 24.4344ms
+2025-05-21 12:22:17.342 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Customers - application/json 82
+2025-05-21 12:22:17.360 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Customers - 307 0 null 17.6145ms
+2025-05-21 12:22:17.379 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Customers - null null
+2025-05-21 12:22:17.401 -04:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:22:17.405 -04:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:22:17.408 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Customers - 405 0 null 28.8227ms
+2025-05-21 12:22:18.201 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Customers - application/json 82
+2025-05-21 12:22:18.213 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Customers - 307 0 null 12.5884ms
+2025-05-21 12:22:18.218 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Customers - null null
+2025-05-21 12:22:18.233 -04:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:22:18.235 -04:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:22:18.237 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Customers - 405 0 null 19.6771ms
+2025-05-21 12:22:23.182 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-21 12:22:23.190 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/.well-known/appspecific/com.chrome.devtools.json - 307 0 null 7.9469ms
+2025-05-21 12:22:23.202 -04:00 [INF] Request starting HTTP/2 GET https://localhost:7299/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-21 12:22:23.208 -04:00 [INF] Request finished HTTP/2 GET https://localhost:7299/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 5.9839ms
+2025-05-21 12:22:23.215 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7299/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-05-21 12:22:28.343 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Customers - application/json 82
+2025-05-21 12:22:28.349 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Customers - 307 0 null 6.8247ms
+2025-05-21 12:22:28.355 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Customers - null null
+2025-05-21 12:22:28.367 -04:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:22:28.371 -04:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:22:28.375 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Customers - 405 0 null 21.2396ms
+2025-05-21 12:25:41.290 -04:00 [INF] Now listening on: https://localhost:7299
+2025-05-21 12:25:41.441 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 12:25:41.634 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 12:25:41.772 -04:00 [INF] Hosting environment: Development
+2025-05-21 12:25:41.775 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 12:25:58.720 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Customers - application/json 82
+2025-05-21 12:25:58.807 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Customers - 307 0 null 97.4003ms
+2025-05-21 12:25:59.062 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Customers - null null
+2025-05-21 12:25:59.075 -04:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:25:59.078 -04:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:25:59.084 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Customers - 405 0 null 22.0692ms
+2025-05-21 12:26:05.096 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 12:26:05.399 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 302.812ms
+2025-05-21 12:26:05.501 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-21 12:26:05.510 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_vs/browserLink - null null
+2025-05-21 12:26:05.524 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-21 12:26:05.558 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - 200 16535 application/javascript; charset=utf-8 57.9969ms
+2025-05-21 12:26:05.724 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/.well-known/appspecific/com.chrome.devtools.json - 307 0 null 200.5948ms
+2025-05-21 12:26:05.766 -04:00 [INF] Request starting HTTP/2 GET https://localhost:7299/.well-known/appspecific/com.chrome.devtools.json - null null
+2025-05-21 12:26:05.782 -04:00 [INF] Request finished HTTP/2 GET https://localhost:7299/.well-known/appspecific/com.chrome.devtools.json - 404 0 null 16.4829ms
+2025-05-21 12:26:05.795 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7299/.well-known/appspecific/com.chrome.devtools.json, Response status code: 404
+2025-05-21 12:26:05.813 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_vs/browserLink - 200 null text/javascript; charset=UTF-8 303.0817ms
+2025-05-21 12:26:06.961 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 12:26:07.008 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 46.7934ms
+2025-05-21 12:26:18.738 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Customers - application/json 82
+2025-05-21 12:26:18.746 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Customers - 307 0 null 7.5638ms
+2025-05-21 12:26:18.756 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Customers - null null
+2025-05-21 12:26:18.766 -04:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:26:18.771 -04:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-05-21 12:26:18.774 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Customers - 405 0 null 17.9723ms
+2025-05-21 12:28:14.156 -04:00 [INF] Now listening on: https://localhost:7299
+2025-05-21 12:28:14.214 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 12:28:14.289 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 12:28:14.291 -04:00 [INF] Hosting environment: Development
+2025-05-21 12:28:14.293 -04:00 [INF] Content root path: C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.API
+2025-05-21 12:28:17.606 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Customers - application/json 82
+2025-05-21 12:28:17.687 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Customers - 307 0 null 86.8307ms
+2025-05-21 12:28:17.879 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Customers - null null
+2025-05-21 12:28:17.894 -04:00 [INF] CORS policy execution successful.
+2025-05-21 12:28:17.900 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Customers - 204 null null 22.3081ms
+2025-05-21 12:28:17.915 -04:00 [INF] Request starting HTTP/2 POST https://localhost:7299/api/Customers - application/json 82
+2025-05-21 12:28:17.924 -04:00 [INF] CORS policy execution successful.
+2025-05-21 12:28:17.931 -04:00 [INF] Executing endpoint 'OrderManagementSystem.API.Controllers.CustomersController.CreateCustomer (OrderManagementSystem.API)'
+2025-05-21 12:28:17.973 -04:00 [INF] Route matched with {action = "CreateCustomer", controller = "Customers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[OrderManagementSystem.Application.DTOs.CustomerDto]] CreateCustomer(OrderManagementSystem.Application.Commands.CreateCustomerCommand) on controller OrderManagementSystem.API.Controllers.CustomersController (OrderManagementSystem.API).
+2025-05-21 12:28:23.731 -04:00 [INF] Saved 1 entities to in-memory store.
+2025-05-21 12:28:23.766 -04:00 [INF] Executing CreatedAtActionResult, writing value of type 'OrderManagementSystem.Application.DTOs.CustomerDto'.
+2025-05-21 12:28:23.814 -04:00 [INF] Executed action OrderManagementSystem.API.Controllers.CustomersController.CreateCustomer (OrderManagementSystem.API) in 5829.1571ms
+2025-05-21 12:28:23.820 -04:00 [INF] Executed endpoint 'OrderManagementSystem.API.Controllers.CustomersController.CreateCustomer (OrderManagementSystem.API)'
+2025-05-21 12:28:23.828 -04:00 [INF] Request finished HTTP/2 POST https://localhost:7299/api/Customers - 201 null application/json; charset=utf-8 5913.5203ms
+2025-05-21 12:29:00.834 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/api/Customers - null null
+2025-05-21 12:29:00.857 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/api/Customers - 307 0 null 24.113ms
+2025-05-21 12:29:00.872 -04:00 [INF] Request starting HTTP/2 GET https://localhost:7299/api/Customers - null null
+2025-05-21 12:29:00.893 -04:00 [INF] CORS policy execution successful.
+2025-05-21 12:29:00.897 -04:00 [INF] Executing endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API)'
+2025-05-21 12:29:00.907 -04:00 [INF] Route matched with {action = "GetAllCustomers", controller = "Customers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[OrderManagementSystem.Application.DTOs.CustomerDto]]] GetAllCustomers() on controller OrderManagementSystem.API.Controllers.CustomersController (OrderManagementSystem.API).
+2025-05-21 12:29:01.260 -04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[OrderManagementSystem.Application.DTOs.CustomerDto, OrderManagementSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-21 12:29:01.269 -04:00 [INF] Executed action OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API) in 357.6454ms
+2025-05-21 12:29:01.274 -04:00 [INF] Executed endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetAllCustomers (OrderManagementSystem.API)'
+2025-05-21 12:29:01.278 -04:00 [INF] Request finished HTTP/2 GET https://localhost:7299/api/Customers - 200 null application/json; charset=utf-8 405.9635ms
+2025-05-21 12:29:14.988 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/api/Customers/179a9f4a-0c4a-499e-bd0e-663b6fa56902 - null null
+2025-05-21 12:29:15.053 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/api/Customers/179a9f4a-0c4a-499e-bd0e-663b6fa56902 - 307 0 null 65.3741ms
+2025-05-21 12:29:15.075 -04:00 [INF] Request starting HTTP/2 GET https://localhost:7299/api/Customers/179a9f4a-0c4a-499e-bd0e-663b6fa56902 - null null
+2025-05-21 12:29:15.083 -04:00 [INF] CORS policy execution successful.
+2025-05-21 12:29:15.086 -04:00 [INF] Executing endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetCustomer (OrderManagementSystem.API)'
+2025-05-21 12:29:15.101 -04:00 [INF] Route matched with {action = "GetCustomer", controller = "Customers"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[OrderManagementSystem.Application.DTOs.CustomerDto]] GetCustomer(System.Guid) on controller OrderManagementSystem.API.Controllers.CustomersController (OrderManagementSystem.API).
+2025-05-21 12:29:15.170 -04:00 [INF] Executing OkObjectResult, writing value of type 'OrderManagementSystem.Application.DTOs.CustomerDto'.
+2025-05-21 12:29:15.173 -04:00 [INF] Executed action OrderManagementSystem.API.Controllers.CustomersController.GetCustomer (OrderManagementSystem.API) in 67.3279ms
+2025-05-21 12:29:15.177 -04:00 [INF] Executed endpoint 'OrderManagementSystem.API.Controllers.CustomersController.GetCustomer (OrderManagementSystem.API)'
+2025-05-21 12:29:15.179 -04:00 [INF] Request finished HTTP/2 GET https://localhost:7299/api/Customers/179a9f4a-0c4a-499e-bd0e-663b6fa56902 - 200 null application/json; charset=utf-8 104.7086ms
+2025-05-21 12:30:17.959 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5109/api/Orders - application/json 339
+2025-05-21 12:30:17.968 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5109/api/Orders - 307 0 null 9.5892ms
+2025-05-21 12:30:17.975 -04:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7299/api/Orders - null null
+2025-05-21 12:30:17.997 -04:00 [INF] CORS policy execution successful.
+2025-05-21 12:30:18.002 -04:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7299/api/Orders - 204 null null 27.515ms
+2025-05-21 12:30:18.008 -04:00 [INF] Request starting HTTP/2 POST https://localhost:7299/api/Orders - application/json 339
+2025-05-21 12:30:18.019 -04:00 [INF] CORS policy execution successful.
+2025-05-21 12:30:18.023 -04:00 [INF] Executing endpoint 'OrderManagementSystem.API.Controllers.OrdersController.CreateOrder (OrderManagementSystem.API)'
+2025-05-21 12:30:18.034 -04:00 [INF] Route matched with {action = "CreateOrder", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[OrderManagementSystem.Application.DTOs.OrderDto]] CreateOrder(OrderManagementSystem.Application.Commands.CreateOrderCommand) on controller OrderManagementSystem.API.Controllers.OrdersController (OrderManagementSystem.API).
+2025-05-21 12:30:18.207 -04:00 [INF] Saved 2 entities to in-memory store.
+2025-05-21 12:30:18.221 -04:00 [INF] Executing CreatedAtActionResult, writing value of type 'OrderManagementSystem.Application.DTOs.OrderDto'.
+2025-05-21 12:30:18.233 -04:00 [INF] Executed action OrderManagementSystem.API.Controllers.OrdersController.CreateOrder (OrderManagementSystem.API) in 194.296ms
+2025-05-21 12:30:18.237 -04:00 [INF] Executed endpoint 'OrderManagementSystem.API.Controllers.OrdersController.CreateOrder (OrderManagementSystem.API)'
+2025-05-21 12:30:18.242 -04:00 [INF] Request finished HTTP/2 POST https://localhost:7299/api/Orders - 201 null application/json; charset=utf-8 234.5902ms
+2025-05-21 13:17:01.054 -04:00 [INF] Saved 6 entities to in-memory store.
+2025-05-21 13:17:01.723 -04:00 [INF] Now listening on: https://localhost:7299
+2025-05-21 13:17:01.726 -04:00 [INF] Now listening on: http://localhost:5109
+2025-05-21 13:17:01.819 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-21 13:17:01.822 -04:00 [INF] Hosting environment: Development
+2025-05-21 13:17:01.824 -04:00 [INF] Content root path: C:\Users\USER\Documents\Projects\Assesment\OrderManagementSystem.API
+2025-05-21 13:17:20.582 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/index.html - null null
+2025-05-21 13:17:20.894 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/index.html - 200 null text/html;charset=utf-8 318.3576ms
+2025-05-21 13:17:20.961 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-21 13:17:20.972 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_framework/aspnetcore-browser-refresh.js - 200 16535 application/javascript; charset=utf-8 11.6805ms
+2025-05-21 13:17:21.358 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/_vs/browserLink - null null
+2025-05-21 13:17:21.567 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/_vs/browserLink - 200 null text/javascript; charset=UTF-8 208.9819ms
+2025-05-21 13:17:23.424 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - null null
+2025-05-21 13:17:23.456 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5109/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 32.261ms

@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.Infrastructure\obj\Debug\net9.0\OrderManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.Infrastructure\obj\Debug\net9.0\OrderManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.Infrastructure\obj\Debug\net9.0\OrderManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.Infrastructure\obj\Debug\net9.0\OrderManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.Infrastructure\obj\Debug\net9.0\OrderManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OrderManagementAssessment\OrderManagementSystem.Infrastructure\obj\Debug\net9.0\OrderManagementSystem.Infrastructure.sourcelink.json
