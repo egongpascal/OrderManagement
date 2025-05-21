@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OrderManagementSystem.API"
   ],
-  "SelectedNode": "\\OrderManagementSystem.sln",
+  "SelectedNode": "\\OrderManagementSystem.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

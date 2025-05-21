@@ -1,0 +1,6 @@
+{
+  "OrderManagementSystem.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\USER\\source\\repos\\OrderManagementAssessment\\OrderManagementSystem.API",
+  "OrderManagementSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\USER\\source\\repos\\OrderManagementAssessment\\OrderManagementSystem.Application",
+  "OrderManagementSystem.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\USER\\source\\repos\\OrderManagementAssessment\\OrderManagementSystem.Domain",
+  "OrderManagementSystem.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\USER\\source\\repos\\OrderManagementAssessment\\OrderManagementSystem.Infrastructure"
+}

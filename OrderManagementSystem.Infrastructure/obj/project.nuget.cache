@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f92o6R+eapE=",
+  "dgSpecHash": "lUrBisF/5Cg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\Projects\\OrderManagementAssessment\\OrderManagementSystem.Infrastructure\\OrderManagementSystem.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\New folder\\OrderManagement\\OrderManagementSystem.Infrastructure\\OrderManagementSystem.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

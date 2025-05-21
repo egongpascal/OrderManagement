@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\Projects\\OrderManagementAssessment\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\New folder\\OrderManagement\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\Projects\\OrderManagementAssessment\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj": {
+    "C:\\Users\\USER\\source\\repos\\New folder\\OrderManagement\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Projects\\OrderManagementAssessment\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\New folder\\OrderManagement\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj",
         "projectName": "OrderManagementSystem.Domain",
-        "projectPath": "C:\\Users\\USER\\Documents\\Projects\\OrderManagementAssessment\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\New folder\\OrderManagement\\OrderManagementSystem.Domain\\OrderManagementSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Projects\\OrderManagementAssessment\\OrderManagementSystem.Domain\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\New folder\\OrderManagement\\OrderManagementSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
